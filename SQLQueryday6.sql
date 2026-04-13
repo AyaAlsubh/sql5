@@ -70,9 +70,9 @@ Problems in one table:
 
 
 
-/* =========================
+/*
    Part 3: Denormalization
-   ========================= */
+   */
 
 -- إنشاء الجدول مرة وحدة فقط
 CREATE TABLE orders_monthly_report (
